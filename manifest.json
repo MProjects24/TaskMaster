@@ -1,5 +1,5 @@
 {
-  "name": "HomeFlow — Household Tasks",
+  "name": "HomeFlow",
   "short_name": "HomeFlow",
   "description": "Household task tracker for Mehak & Gurjot",
   "start_url": "./index.html",
@@ -26,7 +26,6 @@
     {
       "name": "Add Task",
       "short_name": "Add",
-      "description": "Add a new household task",
       "url": "./index.html#add"
     }
   ]
